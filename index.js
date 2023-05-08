@@ -3,6 +3,7 @@ import {
   addBookForm, bookList, listButton, addBookButton, contactButton,
   listContainer, formSection, contactSection,
 } from './modules/navigaton.js';
+import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 const books = new Books();
 books.displayBooks();
@@ -50,3 +51,7 @@ contactButton.addEventListener('click', () => {
   listContainer.classList.add('dNone');
   listContainer.classList.remove('Block');
 });
+
+const currentDateElement = document.getElementById('current-date');
+const currentDate = DateTime.local().toLocaleString(DateTime.DATE_FULL);
+currentDateElement.innerHTML = currentDate;

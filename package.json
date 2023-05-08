@@ -1,0 +1,20 @@
+{
+  "name": "awesome_books",
+  "version": "1.0.0",
+  "description": "A Microverse exercise to use animation on a website\r <a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gardimy/ES6_modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gardimy/ES6_modules/issues"
+  },
+  "homepage": "https://github.com/Gardimy/ES6_modules#readme"
+}

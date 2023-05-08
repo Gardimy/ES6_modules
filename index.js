@@ -3,7 +3,7 @@ import {
   addBookForm, bookList, listButton, addBookButton, contactButton,
   listContainer, formSection, contactSection,
 } from './modules/navigaton.js';
-import { DateTime } from './node_modules/luxon/src/luxon.js';
+import { DateTime } from 'luxon';
 
 const books = new Books();
 books.displayBooks();

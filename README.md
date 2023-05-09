@@ -126,7 +126,9 @@ To run the linters before committing any changes to your code, execute the follo
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ESLint](https://eslint.org/).
+- Use webpack to bundle JavaScript.
+- Use proper ES6 syntax.
+- Use ES6 modules to write modular JavaScript.
 
 <!-- CONTRIBUTING -->
 

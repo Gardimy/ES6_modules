@@ -144,9 +144,3 @@ To run the linters before committing any changes to your code, execute the follo
 
 > I would like to thank [microverse](https://www.microverse.org/) for teaching me this Skills
 <!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT license](https://choosealicense.com/licenses/mit/) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

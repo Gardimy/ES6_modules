@@ -1,5 +1,4 @@
-# Awesome books
-A Microverse exercise to use animation on a website
+# ES6
 <a name="readme-top"></a>
 
 <div align="center">
@@ -31,7 +30,7 @@ A Microverse exercise to use animation on a website
 
 <!-- PROJECT DESCRIPTION -->
 # 📖Aweesome books<a name="about-project"></a>
-In this project, I build a basic website that allows users to add/remove books from a list. I achieve that by using JavaScript objects and arrays. I also dynamically modify the DOM and add basic events.. The use of linters to ensure code quality follows the Javascript best practices.
+In this project, I build a basic website that allows users to add/remove books from a list. I achieve that by using The recent version of javaScript (ES6). I also dynamically modify the DOM and add basic events.. The use of linters and eslint to ensure code quality follows the Javascript best practices.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -57,14 +56,21 @@ In this project, I build a basic website that allows users to add/remove books f
 
 ### Key Features <a name="key-features"></a>
 
-- **Linters**: [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/), [Webhint](https://webhint.io/), and [Stylelint](https://stylelint.io/.)
-- **A `.github/workflows/linters.yml`** file to run linters on GitHub Pull Request.
-- **A** `.gitignore` file including `node_modules/`.
--**Eslint**npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
-          [ -f .eslintrc.json ] || wget https://raw.githubusercontent.com/microverseinc/linters-config/master/html-css-js/.eslintrc.json
-      - name: ESLint Report
+> Use webpack to bundle JavaScript.
+
+- [ ] **[Use webpack to bundle JavaScript.]**
+- [ ] **[Use ES6 modules to write modular JavaScript.]**
+- [ ] **[use proper ES6 syntax.]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LIVE DEMO -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Gardimy/ES6_modules/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +78,7 @@ In this project, I build a basic website that allows users to add/remove books f
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
->If you are a new developer and would like to have a basic project to start practicing your code or creating your first portfolio app-features using good practice JavaScript ,HTML and CSS : Cloning this project will give you what you need!
+>If you are a new developer and would like to have a basic project to start practicing your code or creating your first project Using the most receent version of javaScript ,HTML and CSS : Cloning this project will give you what you need!
 
 > To get a local copy up and running, follow these steps:
 ### Prerequisites
@@ -86,11 +92,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`https://github.com/Gardimy/Awesome_books`
+`https://github.com/Gardimy/ES6_modules`
 
 or
 
-`https://github.com/Gardimy/Awesome_books` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
+`https://github.com/Gardimy/ES6_modules` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
 
 ### Install:
 
